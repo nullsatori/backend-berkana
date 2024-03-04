@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "desikanties",
+  "info": {
+    "singularName": "desikanty",
+    "pluralName": "desikanties",
+    "displayName": "Десиканты"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item"
+    }
+  }
+}

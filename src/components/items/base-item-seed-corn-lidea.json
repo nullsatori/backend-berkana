@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_items_base_item_seed_corn_lideas",
+  "info": {
+    "displayName": "BaseItemSeedCornLidea"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "FAO": {
+      "type": "string"
+    },
+    "characteristics": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    }
+  }
+}

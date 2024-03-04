@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_items_base_item_seed_sunflower_bayers",
+  "info": {
+    "displayName": "BaseItemSeedSunflowerBayer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "typeBayer": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    }
+  }
+}

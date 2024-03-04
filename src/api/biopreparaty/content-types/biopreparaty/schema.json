@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "biopreparaties",
+  "info": {
+    "singularName": "biopreparaty",
+    "pluralName": "biopreparaties",
+    "displayName": "Биопрепараты"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item"
+    }
+  }
+}

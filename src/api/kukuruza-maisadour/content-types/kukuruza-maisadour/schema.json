@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kukuruza_maisadours",
+  "info": {
+    "singularName": "kukuruza-maisadour",
+    "pluralName": "kukuruza-maisadours",
+    "displayName": "Кукуруза Maisadour"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item-corn"
+    }
+  }
+}

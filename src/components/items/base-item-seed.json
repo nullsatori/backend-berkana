@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_items_base_item_seeds",
+  "info": {
+    "displayName": "BaseItemSeedSunflower",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "group": {
+      "type": "string"
+    },
+    "characteristic": {
+      "type": "string"
+    },
+    "processing": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    }
+  }
+}

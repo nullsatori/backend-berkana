@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lg_podsolnechniks",
+  "info": {
+    "singularName": "lg-podsolnechnik",
+    "pluralName": "lg-podsolnechniks",
+    "displayName": "Подсолнечник LG",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item-seed"
+    }
+  }
+}

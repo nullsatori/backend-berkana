@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "agrohimikaty_mikroelementies",
+  "info": {
+    "singularName": "agrohimikaty-mikroelementy",
+    "pluralName": "agrohimikaty-mikroelementies",
+    "displayName": "Агрохимикаты, микроэлементы"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item"
+    }
+  }
+}

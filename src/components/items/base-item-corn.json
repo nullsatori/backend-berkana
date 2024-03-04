@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_items_base_item_corns",
+  "info": {
+    "displayName": "BaseItemCorn",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "FAO": {
+      "type": "string"
+    },
+    "processing": {
+      "type": "string"
+    },
+    "characteristics": {
+      "type": "string"
+    },
+    "processing_1": {
+      "type": "string"
+    },
+    "processing_2": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    },
+    "price_1": {
+      "type": "string"
+    },
+    "price_2": {
+      "type": "string"
+    }
+  }
+}

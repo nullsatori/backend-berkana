@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "fungiczidnyj_protravitel_semyans",
+  "info": {
+    "singularName": "fungiczidnyj-protravitel-semyan",
+    "pluralName": "fungiczidnyj-protravitel-semyans",
+    "displayName": "Фунгицидные протравители семян",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

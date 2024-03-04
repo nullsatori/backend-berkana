@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_items_base_items",
+  "info": {
+    "displayName": "baseItem",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "manufacturer": {
+      "type": "string"
+    },
+    "price_1": {
+      "type": "string"
+    },
+    "agents": {
+      "type": "json"
+    },
+    "price_2": {
+      "type": "string"
+    },
+    "rates": {
+      "type": "string"
+    },
+    "container": {
+      "type": "string"
+    },
+    "culture": {
+      "type": "string"
+    },
+    "group": {
+      "type": "string"
+    }
+  }
+}

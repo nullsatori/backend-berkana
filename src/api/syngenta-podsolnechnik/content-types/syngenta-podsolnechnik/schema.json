@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "syngenta_podsolnechniks",
+  "info": {
+    "singularName": "syngenta-podsolnechnik",
+    "pluralName": "syngenta-podsolnechniks",
+    "displayName": "Подсолнечник Syngenta",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item-seed"
+    }
+  }
+}

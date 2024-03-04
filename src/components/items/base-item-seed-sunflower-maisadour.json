@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_items_base_item_seed_sunflower_maisadours",
+  "info": {
+    "displayName": "BaseItemSeedSunflowerMaisadour"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "group": {
+      "type": "string"
+    },
+    "characteristic": {
+      "type": "string"
+    },
+    "processing_1": {
+      "type": "string"
+    },
+    "processing_2": {
+      "type": "string"
+    },
+    "price_1": {
+      "type": "string"
+    },
+    "price_2": {
+      "type": "string"
+    }
+  }
+}

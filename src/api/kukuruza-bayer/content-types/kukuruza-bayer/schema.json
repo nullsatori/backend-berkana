@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kukuruza_bayers",
+  "info": {
+    "singularName": "kukuruza-bayer",
+    "pluralName": "kukuruza-bayers",
+    "displayName": "Кукуруза Bayer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "component": {
+      "type": "component",
+      "repeatable": false,
+      "component": "items.base-item-corn"
+    }
+  }
+}
